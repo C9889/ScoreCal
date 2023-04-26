@@ -9,6 +9,7 @@ logger = logging.getLogger(__name__)
 if __name__ == '__main__':
     init_logger()
     logger.info("main start")
+    logger.info("just test")
 
     run.run()
 

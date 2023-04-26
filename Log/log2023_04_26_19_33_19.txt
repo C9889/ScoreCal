@@ -1,0 +1,6 @@
+2023-04-26 19:33:19,059 main.py->__main__ line:11 INFO:main start
+2023-04-26 19:33:19,422 run.py->root line:99 INFO:get_ans_detail end:.\Data\PaperAnswers\Andy - CLFAMC_AML Training_Quiz_ No Answer.docx
+2023-04-26 19:33:19,675 run.py->root line:99 INFO:get_ans_detail end:.\Data\PaperAnswers\CLFAMC_AML Training_Quiz_ No Answer.docx
+2023-04-26 19:33:19,893 run.py->root line:99 INFO:get_ans_detail end:.\Data\PaperAnswers\Leo - CLFAMC_AML Training_Quiz_ No Answer - Ñ}Ñu.docx
+2023-04-26 19:33:29,361 run.py->root line:49 INFO:run end
+2023-04-26 19:33:29,362 main.py->__main__ line:15 INFO:main end
