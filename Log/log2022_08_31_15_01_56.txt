@@ -1,0 +1,5 @@
+2022-08-31 15:01:56,622 main.py->__main__ line:11 INFO:main start
+2022-08-31 15:01:58,965 run.py->root line:99 INFO:get_ans_detail end:.\Data\PaperAnswers\Andy - CLFAMC_AML Training_Quiz_ No Answer.docx
+2022-08-31 15:01:59,215 run.py->root line:99 INFO:get_ans_detail end:.\Data\PaperAnswers\Leo - CLFAMC_AML Training_Quiz_ No Answer.docx
+2022-08-31 15:01:59,282 run.py->root line:49 INFO:run end
+2022-08-31 15:01:59,296 main.py->__main__ line:15 INFO:main end

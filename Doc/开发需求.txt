@@ -1,0 +1,5 @@
+
+1，Outlook自动下载邮件中附件名称符合规则“*Training*Answer*.docx”的附件，存放到一个文件夹中，例如C:\Temp\Test Score Statistics\emails\
+
+2，读取一个上述文件夹中的每个*Training*Answer*.docx文件（见文件CLFAMC_AML Training_Quiz_ No Answer.docx），提取每个人的名称、部门、题目、答案等信息到文件（见文件Test Score Statistics.xlsx），然后统计出每个人的测试分数。
+
